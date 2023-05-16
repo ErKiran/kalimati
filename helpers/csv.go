@@ -31,7 +31,6 @@ func (c *CSVConverter) Write(data kalimati.DailyPrice) error {
 		return err
 	}
 
-	// Write each person's data to CSV
 	for _, item := range data.Prices {
 		err = writer.Write([]string{data.Date, item.Commodityname, item.Commodityunit, item.Maxprice, item.Minprice, item.Avgprice})
 		if err != nil {

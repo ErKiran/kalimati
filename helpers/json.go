@@ -2,7 +2,7 @@ package helpers
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"os"
 
 	"kalimati/kalimati"
 )
@@ -18,7 +18,7 @@ func (c *JSONConverter) Write(prices kalimati.DailyPrice) error {
 		return err
 	}
 
-	if err := ioutil.WriteFile(file, data, 0o644); err != nil {
+	if err := os.WriteFile(file, data, 0o644); err != nil {
 		return err
 	}
 	return nil
