@@ -4,10 +4,12 @@ import (
 	"fmt"
 	"os"
 	"strings"
+
+	"kalimati/kalimati"
 )
 
 type HelperInterface interface {
-	Write(data interface{}) error
+	Write(data kalimati.DailyPrice) error
 }
 
 var extMap = map[string]string{
