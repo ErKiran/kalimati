@@ -40,11 +40,17 @@ func (c *XLSXConverter) GetColumns(price kalimati.Prices, num int, date string) 
 	}
 }
 
-func (c *XLSXConverter) WriteFile(fileName string, headers map[string]string, data []map[string]string) {
+func (c *XLSXConverter) Write(datas kalimati.DailyPrice) error {
 	f := excelize.NewFile()
+
+	year, month, day := splitDate(datas.Date)
+	file := fileName(year, month, day, "excel")
+
+	headers := c.GetHeaders()
 	for k, v := range headers {
 		f.SetCellValue("Sheet1", k, v)
 	}
+	data := c.Convert(datas)
 
 	for _, vals := range data {
 		for k, v := range vals {
@@ -52,7 +58,8 @@ func (c *XLSXConverter) WriteFile(fileName string, headers map[string]string, da
 		}
 	}
 
-	if err := f.SaveAs(fileName); err != nil {
-		fmt.Println(err)
+	if err := f.SaveAs(file); err != nil {
+		return err
 	}
+	return nil
 }
