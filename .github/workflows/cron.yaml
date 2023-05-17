@@ -1,7 +1,7 @@
 name: price-cron
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours
+    - cron: "*/5 * * * *" # every 4 hours
 
 jobs:
   build:
