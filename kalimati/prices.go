@@ -31,8 +31,7 @@ func GetPrices(lang string) (DailyPrice, error) {
 		return dailyPrice, err
 	}
 
-	err = json.Unmarshal(resp, &dailyPrice)
-	if err != nil {
+	if err = json.Unmarshal(resp, &dailyPrice); err != nil {
 		return dailyPrice, err
 	}
 

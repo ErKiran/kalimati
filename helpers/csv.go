@@ -26,14 +26,12 @@ func (c *CSVConverter) Write(data kalimati.DailyPrice) error {
 	defer writer.Flush()
 
 	// Write CSV header
-	err = writer.Write(headers)
-	if err != nil {
+	if err = writer.Write(headers); err != nil {
 		return err
 	}
 
 	for _, item := range data.Prices {
-		err = writer.Write([]string{data.Date, item.Commodityname, item.Commodityunit, item.Maxprice, item.Minprice, item.Avgprice})
-		if err != nil {
+		if err = writer.Write([]string{data.Date, item.Commodityname, item.Commodityunit, item.Maxprice, item.Minprice, item.Avgprice}); err != nil {
 			return err
 		}
 	}

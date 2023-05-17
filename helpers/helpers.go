@@ -20,8 +20,7 @@ var extMap = map[string]string{
 
 func pathChecker(path string) error {
 	if _, err := os.Stat(path); os.IsNotExist(err) {
-		err := os.MkdirAll(path, os.ModePerm)
-		if err != nil {
+		if err := os.MkdirAll(path, os.ModePerm); err != nil {
 			return err
 		}
 	}
