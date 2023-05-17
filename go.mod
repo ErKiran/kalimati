@@ -1,4 +1,4 @@
-module kalimati
+module github.com/ErKiran/kalimati
 
 go 1.20
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"kalimati/kalimati"
+	"github.com/ErKiran/kalimati/kalimati"
 )
 
 type HelperInterface interface {

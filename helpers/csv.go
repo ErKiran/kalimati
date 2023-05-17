@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"os"
 
-	"kalimati/kalimati"
+	"github.com/ErKiran/kalimati/kalimati"
 )
 
 type CSVConverter struct{}

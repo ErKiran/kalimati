@@ -1,8 +1,9 @@
 package main
 
 import (
-	"kalimati/helpers"
-	"kalimati/kalimati"
+	"github.com/ErKiran/kalimati/kalimati"
+
+	"github.com/ErKiran/kalimati/helpers"
 )
 
 var langMap = map[string]string{

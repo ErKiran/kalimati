@@ -3,7 +3,7 @@ package helpers
 import (
 	"fmt"
 
-	"kalimati/kalimati"
+	"github.com/ErKiran/kalimati/kalimati"
 
 	"github.com/xuri/excelize/v2"
 )

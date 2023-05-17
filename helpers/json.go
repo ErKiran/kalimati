@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"kalimati/kalimati"
+	"github.com/ErKiran/kalimati/kalimati"
 )
 
 type JSONConverter struct{}
