@@ -1,7 +1,7 @@
 name: price-cron
 on:
   schedule:
-    - cron: "0 1 * * *" # every day at 7:00 AM NPT (Conversion due to UTC time)
+    - cron: "0 2 * * *" # every day at 7:00 AM NPT (Conversion due to UTC time)
 
 jobs:
   build:
