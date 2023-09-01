@@ -7,7 +7,7 @@ jobs:
   build:
     name: Build and Commit Changes
     runs-on: ubuntu-latest
-    environment: KALIMATI_TOKEN
+    environment: GITHUB_TOKEN
 
     steps:
       - name: Checkout Repository
@@ -34,4 +34,4 @@ jobs:
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.KALIMATI_TOKEN }}
