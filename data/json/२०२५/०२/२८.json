@@ -1,0 +1,727 @@
+{
+ "status": 200,
+ "date": "२०२५-०२-२८",
+ "prices": [
+  {
+   "commodityname": "गोलभेडा ठूलो(नेपाली)",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "गोलभेडा ठूलो(भारतीय)",
+   "commodityunit": "केजी",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "गोलभेडा सानो(तराई)",
+   "commodityunit": "के जी",
+   "minprice": "१४.००",
+   "maxprice": "२२.००",
+   "avgprice": "१८.५०"
+  },
+  {
+   "commodityname": "आलु रातो",
+   "commodityunit": "के.जी.",
+   "minprice": "३०.००",
+   "maxprice": "३३.००",
+   "avgprice": "३१.६७"
+  },
+  {
+   "commodityname": "आलु रातो(भारतीय)",
+   "commodityunit": "के जी",
+   "minprice": "३०.००",
+   "maxprice": "३२.००",
+   "avgprice": "३१.००"
+  },
+  {
+   "commodityname": "प्याज सुकेको (भारतीय)",
+   "commodityunit": "के.जी.",
+   "minprice": "७०.००",
+   "maxprice": "७२.००",
+   "avgprice": "७१.००"
+  },
+  {
+   "commodityname": "गाजर(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "२५.००",
+   "maxprice": "३५.००",
+   "avgprice": "३०.००"
+  },
+  {
+   "commodityname": "गाजर(तराई)",
+   "commodityunit": "केजी",
+   "minprice": "२५.००",
+   "maxprice": "३०.००",
+   "avgprice": "२७.६७"
+  },
+  {
+   "commodityname": "बन्दा(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "८.००",
+   "maxprice": "१२.००",
+   "avgprice": "१०.००"
+  },
+  {
+   "commodityname": "बन्दा(तराई)",
+   "commodityunit": "केजी",
+   "minprice": "८.००",
+   "maxprice": "१२.००",
+   "avgprice": "१०.००"
+  },
+  {
+   "commodityname": "बन्दा(नरिवल)",
+   "commodityunit": "केजी",
+   "minprice": "८.००",
+   "maxprice": "१२.००",
+   "avgprice": "१०.००"
+  },
+  {
+   "commodityname": "काउली स्थानिय",
+   "commodityunit": "के.जी.",
+   "minprice": "१५.००",
+   "maxprice": "२५.००",
+   "avgprice": "२०.००"
+  },
+  {
+   "commodityname": "स्थानीय काउली(ज्यापु)",
+   "commodityunit": "केजी",
+   "minprice": "२५.००",
+   "maxprice": "३५.००",
+   "avgprice": "३०.००"
+  },
+  {
+   "commodityname": "काउली तराई",
+   "commodityunit": "के.जी.",
+   "minprice": "१५.००",
+   "maxprice": "२५.००",
+   "avgprice": "२०.००"
+  },
+  {
+   "commodityname": "मूला रातो",
+   "commodityunit": "के.जी.",
+   "minprice": "३५.००",
+   "maxprice": "४५.००",
+   "avgprice": "४०.००"
+  },
+  {
+   "commodityname": "मूला सेतो(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "१५.००",
+   "maxprice": "२५.००",
+   "avgprice": "२०.००"
+  },
+  {
+   "commodityname": "सेतो मूला(हाइब्रीड)",
+   "commodityunit": "केजी",
+   "minprice": "२०.००",
+   "maxprice": "३०.००",
+   "avgprice": "२५.००"
+  },
+  {
+   "commodityname": "भन्टा लाम्चो",
+   "commodityunit": "के.जी.",
+   "minprice": "२०.००",
+   "maxprice": "३०.००",
+   "avgprice": "२५.००"
+  },
+  {
+   "commodityname": "भन्टा डल्लो",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "मटरकोशा",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "घिउ सिमी(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "घिउ सिमी(हाइब्रीड)",
+   "commodityunit": "केजी",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "घिउ सिमी(राजमा)",
+   "commodityunit": "केजी",
+   "minprice": "८०.००",
+   "maxprice": "१००.००",
+   "avgprice": "९०.००"
+  },
+  {
+   "commodityname": "टाटे सिमी",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "७०.००",
+   "avgprice": "६५.००"
+  },
+  {
+   "commodityname": "तितो करेला",
+   "commodityunit": "के.जी.",
+   "minprice": "९०.००",
+   "maxprice": "११०.००",
+   "avgprice": "१००.००"
+  },
+  {
+   "commodityname": "लौका",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "परवर(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "१८०.००",
+   "maxprice": "२००.००",
+   "avgprice": "१९०.००"
+  },
+  {
+   "commodityname": "घिरौला",
+   "commodityunit": "के.जी.",
+   "minprice": "९०.००",
+   "maxprice": "११०.००",
+   "avgprice": "१००.००"
+  },
+  {
+   "commodityname": "फर्सी पाकेको",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "फर्सी हरियो(लाम्चो)",
+   "commodityunit": "के.जी.",
+   "minprice": "८.००",
+   "maxprice": "१२.००",
+   "avgprice": "१०.००"
+  },
+  {
+   "commodityname": "हरियो फर्सी(डल्लो)",
+   "commodityunit": "केजी",
+   "minprice": "८.००",
+   "maxprice": "१२.००",
+   "avgprice": "१०.००"
+  },
+  {
+   "commodityname": "भिण्डी",
+   "commodityunit": "के.जी.",
+   "minprice": "१००.००",
+   "maxprice": "११०.००",
+   "avgprice": "१०५.००"
+  },
+  {
+   "commodityname": "सखरखण्ड",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "७०.००",
+   "avgprice": "६५.००"
+  },
+  {
+   "commodityname": "बरेला",
+   "commodityunit": "के.जी.",
+   "minprice": "३५.००",
+   "maxprice": "४५.००",
+   "avgprice": "४०.००"
+  },
+  {
+   "commodityname": "पिंडालू",
+   "commodityunit": "के.जी.",
+   "minprice": "११०.००",
+   "maxprice": "१३०.००",
+   "avgprice": "१२०.००"
+  },
+  {
+   "commodityname": "स्कूस",
+   "commodityunit": "के.जी.",
+   "minprice": "३५.००",
+   "maxprice": "४५.००",
+   "avgprice": "४०.००"
+  },
+  {
+   "commodityname": "रायो साग",
+   "commodityunit": "के.जी.",
+   "minprice": "१५.००",
+   "maxprice": "२५.००",
+   "avgprice": "२०.००"
+  },
+  {
+   "commodityname": "पालूगो साग",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "चमसूरको साग",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "तोरीको साग",
+   "commodityunit": "के.जी.",
+   "minprice": "२०.००",
+   "maxprice": "२५.००",
+   "avgprice": "२२.३३"
+  },
+  {
+   "commodityname": "मेथीको साग",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "प्याज हरियो",
+   "commodityunit": "के.जी.",
+   "minprice": "३०.००",
+   "maxprice": "४०.००",
+   "avgprice": "३५.००"
+  },
+  {
+   "commodityname": "बकूला",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "तरुल",
+   "commodityunit": "के.जी.",
+   "minprice": "१००.००",
+   "maxprice": "११०.००",
+   "avgprice": "१०५.००"
+  },
+  {
+   "commodityname": "च्याउ(कन्य)",
+   "commodityunit": "के.जी.",
+   "minprice": "७०.००",
+   "maxprice": "१००.००",
+   "avgprice": "८३.३३"
+  },
+  {
+   "commodityname": "च्याउ(डल्ले)",
+   "commodityunit": "के जी",
+   "minprice": "३००.००",
+   "maxprice": "३६०.००",
+   "avgprice": "३३०.००"
+  },
+  {
+   "commodityname": "कुरीलो",
+   "commodityunit": "के.जी.",
+   "minprice": "१२००.००",
+   "maxprice": "१६००.००",
+   "avgprice": "१४३३.३३"
+  },
+  {
+   "commodityname": "ब्रोकाउली",
+   "commodityunit": "के.जी.",
+   "minprice": "३५.००",
+   "maxprice": "४५.००",
+   "avgprice": "४०.००"
+  },
+  {
+   "commodityname": "चुकुन्दर",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "७०.००",
+   "avgprice": "६५.००"
+  },
+  {
+   "commodityname": "सजिवन",
+   "commodityunit": "के.जी.",
+   "minprice": "२००.००",
+   "maxprice": "२२०.००",
+   "avgprice": "२१०.००"
+  },
+  {
+   "commodityname": "रातो बन्दा",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "जिरीको साग",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "सेलरी",
+   "commodityunit": "के.जी.",
+   "minprice": "१००.००",
+   "maxprice": "१५०.००",
+   "avgprice": "१२६.६७"
+  },
+  {
+   "commodityname": "पार्सले",
+   "commodityunit": "के.जी.",
+   "minprice": "२५०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२७६.६७"
+  },
+  {
+   "commodityname": "सौफको साग",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "पुदीना",
+   "commodityunit": "के.जी.",
+   "minprice": "२५०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२७६.६७"
+  },
+  {
+   "commodityname": "गान्टे मूला",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "इमली",
+   "commodityunit": "के.जी.",
+   "minprice": "१५०.००",
+   "maxprice": "१६०.००",
+   "avgprice": "१५५.००"
+  },
+  {
+   "commodityname": "तामा",
+   "commodityunit": "के.जी.",
+   "minprice": "९०.००",
+   "maxprice": "१००.००",
+   "avgprice": "९५.००"
+  },
+  {
+   "commodityname": "तोफु",
+   "commodityunit": "के.जी.",
+   "minprice": "११०.००",
+   "maxprice": "१२०.००",
+   "avgprice": "११५.००"
+  },
+  {
+   "commodityname": "गुन्दुक",
+   "commodityunit": "के.जी.",
+   "minprice": "३००.००",
+   "maxprice": "३५०.००",
+   "avgprice": "३२६.६७"
+  },
+  {
+   "commodityname": "स्याउ(झोले)",
+   "commodityunit": "के.जी.",
+   "minprice": "१८०.००",
+   "maxprice": "२००.००",
+   "avgprice": "१९०.००"
+  },
+  {
+   "commodityname": "स्याउ(फूजी)",
+   "commodityunit": "के जी",
+   "minprice": "२५०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२७६.६७"
+  },
+  {
+   "commodityname": "केरा",
+   "commodityunit": "दर्जन",
+   "minprice": "१४०.००",
+   "maxprice": "१५०.००",
+   "avgprice": "१४५.००"
+  },
+  {
+   "commodityname": "कागती",
+   "commodityunit": "के.जी.",
+   "minprice": "१७०.००",
+   "maxprice": "१८०.००",
+   "avgprice": "१७५.००"
+  },
+  {
+   "commodityname": "अनार",
+   "commodityunit": "के.जी.",
+   "minprice": "३३०.००",
+   "maxprice": "३८०.००",
+   "avgprice": "३५३.३३"
+  },
+  {
+   "commodityname": "अंगुर(हरियो)",
+   "commodityunit": "के.जी.",
+   "minprice": "१३०.००",
+   "maxprice": "१८०.००",
+   "avgprice": "१५३.३३"
+  },
+  {
+   "commodityname": "अंगुर(कालो)",
+   "commodityunit": "केजी",
+   "minprice": "२३०.००",
+   "maxprice": "२५०.००",
+   "avgprice": "२४०.००"
+  },
+  {
+   "commodityname": "सुन्तला(नेपाली)",
+   "commodityunit": "के.जी.",
+   "minprice": "१२०.००",
+   "maxprice": "१४०.००",
+   "avgprice": "१३०.००"
+  },
+  {
+   "commodityname": "सुन्तला(भारतीय)",
+   "commodityunit": "केजी",
+   "minprice": "१२०.००",
+   "maxprice": "१४०.००",
+   "avgprice": "१३०.००"
+  },
+  {
+   "commodityname": "तरबुजा(हरियो)",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "मौसम",
+   "commodityunit": "के.जी.",
+   "minprice": "१४०.००",
+   "maxprice": "१६०.००",
+   "avgprice": "१५०.००"
+  },
+  {
+   "commodityname": "जुनार",
+   "commodityunit": "के.जी.",
+   "minprice": "१२०.००",
+   "maxprice": "१४०.००",
+   "avgprice": "१३०.००"
+  },
+  {
+   "commodityname": "भुई कटहर",
+   "commodityunit": "प्रति गोटा",
+   "minprice": "१५०.००",
+   "maxprice": "१८०.००",
+   "avgprice": "१६३.३३"
+  },
+  {
+   "commodityname": "काक्रो(लोकल)",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "८०.००",
+   "avgprice": "७०.००"
+  },
+  {
+   "commodityname": "काक्रो(हाइब्रीड)",
+   "commodityunit": "के जी",
+   "minprice": "३०.००",
+   "maxprice": "३५.००",
+   "avgprice": "३२.३३"
+  },
+  {
+   "commodityname": "रुख कटहर",
+   "commodityunit": "के.जी.",
+   "minprice": "१००.००",
+   "maxprice": "११०.००",
+   "avgprice": "१०५.००"
+  },
+  {
+   "commodityname": "निबुवा",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "७०.००",
+   "avgprice": "६५.००"
+  },
+  {
+   "commodityname": "नासपाती(चाइनिज)",
+   "commodityunit": "केजी",
+   "minprice": "२१०.००",
+   "maxprice": "२४०.००",
+   "avgprice": "२२३.३३"
+  },
+  {
+   "commodityname": "मेवा(नेपाली)",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "मेवा(भारतीय)",
+   "commodityunit": "केजी",
+   "minprice": "९०.००",
+   "maxprice": "१००.००",
+   "avgprice": "९५.००"
+  },
+  {
+   "commodityname": "अम्बा",
+   "commodityunit": "के.जी.",
+   "minprice": "१२०.००",
+   "maxprice": "१४०.००",
+   "avgprice": "१३०.००"
+  },
+  {
+   "commodityname": "लप्सी",
+   "commodityunit": "के.जी.",
+   "minprice": "११०.००",
+   "maxprice": "१३०.००",
+   "avgprice": "१२०.००"
+  },
+  {
+   "commodityname": "खरबुजा",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "स्ट्रबेरी भुईऐसेलु",
+   "commodityunit": "के.जी.",
+   "minprice": "३५०.००",
+   "maxprice": "४००.००",
+   "avgprice": "३७६.६७"
+  },
+  {
+   "commodityname": "किवि",
+   "commodityunit": "केजी",
+   "minprice": "४५०.००",
+   "maxprice": "४८०.००",
+   "avgprice": "४६३.३३"
+  },
+  {
+   "commodityname": "अदुवा",
+   "commodityunit": "के.जी.",
+   "minprice": "१००.००",
+   "maxprice": "१२०.००",
+   "avgprice": "११०.००"
+  },
+  {
+   "commodityname": "खु्र्सानी सुकेको",
+   "commodityunit": "के.जी.",
+   "minprice": "३८०.००",
+   "maxprice": "४००.००",
+   "avgprice": "३९०.००"
+  },
+  {
+   "commodityname": "खु्र्सानी हरियो",
+   "commodityunit": "के.जी.",
+   "minprice": "६०.००",
+   "maxprice": "७०.००",
+   "avgprice": "६५.००"
+  },
+  {
+   "commodityname": "खुर्सानी हरियो(बुलेट)",
+   "commodityunit": "के जी",
+   "minprice": "८०.००",
+   "maxprice": "९०.००",
+   "avgprice": "८५.००"
+  },
+  {
+   "commodityname": "खुर्सानी हरियो(माछे)",
+   "commodityunit": "के जी",
+   "minprice": "७०.००",
+   "maxprice": "८०.००",
+   "avgprice": "७५.००"
+  },
+  {
+   "commodityname": "खुर्सानी हरियो(अकबरे)",
+   "commodityunit": "के जी",
+   "minprice": "२००.००",
+   "maxprice": "२५०.००",
+   "avgprice": "२२६.६७"
+  },
+  {
+   "commodityname": "भेडे खु्र्सानी",
+   "commodityunit": "के.जी.",
+   "minprice": "७०.००",
+   "maxprice": "८०.००",
+   "avgprice": "७५.००"
+  },
+  {
+   "commodityname": "लसुन हरियो",
+   "commodityunit": "के.जी.",
+   "minprice": "७०.००",
+   "maxprice": "८०.००",
+   "avgprice": "७५.००"
+  },
+  {
+   "commodityname": "हरियो धनिया",
+   "commodityunit": "के.जी.",
+   "minprice": "४०.००",
+   "maxprice": "५०.००",
+   "avgprice": "४५.००"
+  },
+  {
+   "commodityname": "लसुन सुकेको चाइनिज",
+   "commodityunit": "के.जी.",
+   "minprice": "२७०.००",
+   "maxprice": "२८०.००",
+   "avgprice": "२७५.००"
+  },
+  {
+   "commodityname": "छ्यापी सुकेको",
+   "commodityunit": "के.जी.",
+   "minprice": "१४०.००",
+   "maxprice": "१६०.००",
+   "avgprice": "१५०.००"
+  },
+  {
+   "commodityname": "छ्यापी हरियो",
+   "commodityunit": "के.जी.",
+   "minprice": "५०.००",
+   "maxprice": "६०.००",
+   "avgprice": "५५.००"
+  },
+  {
+   "commodityname": "ताजा माछा(रहु)",
+   "commodityunit": "के जी",
+   "minprice": "३६०.००",
+   "maxprice": "४२०.००",
+   "avgprice": "३९३.३३"
+  },
+  {
+   "commodityname": "ताजा माछा(बचुवा)",
+   "commodityunit": "के जी",
+   "minprice": "२५०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२७६.६७"
+  },
+  {
+   "commodityname": "ताजा माछा(छडी)",
+   "commodityunit": "के जी",
+   "minprice": "२५०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२७६.६७"
+  },
+  {
+   "commodityname": "राजा च्याउ",
+   "commodityunit": "के.जी.",
+   "minprice": "२८०.००",
+   "maxprice": "३००.००",
+   "avgprice": "२९०.००"
+  },
+  {
+   "commodityname": "सिताके च्याउ",
+   "commodityunit": "के.जी.",
+   "minprice": "८००.००",
+   "maxprice": "१०००.००",
+   "avgprice": "९००.००"
+  }
+ ]
+}
