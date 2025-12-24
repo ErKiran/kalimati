@@ -1,0 +1,776 @@
+{
+ "status": 200,
+ "date": "2025-12-24",
+ "prices": [
+  {
+   "commodityname": "Tomato Big(Nepali)",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "100.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Tomato Big(Indian)",
+   "commodityunit": "KG",
+   "minprice": "110.00",
+   "maxprice": "120.00",
+   "avgprice": "115.00"
+  },
+  {
+   "commodityname": "Tomato Small(Local)",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "80.00",
+   "avgprice": "76.33"
+  },
+  {
+   "commodityname": "Tomato Small(Tunnel)",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "94.29"
+  },
+  {
+   "commodityname": "Tomato Small(Indian)",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "105.00",
+   "avgprice": "96.25"
+  },
+  {
+   "commodityname": "Tomato Small(Terai)",
+   "commodityunit": "KG",
+   "minprice": "85.00",
+   "maxprice": "95.00",
+   "avgprice": "91.67"
+  },
+  {
+   "commodityname": "Potato Red",
+   "commodityunit": "KG",
+   "minprice": "32.00",
+   "maxprice": "40.00",
+   "avgprice": "36.00"
+  },
+  {
+   "commodityname": "Potato Red(Indian)",
+   "commodityunit": "KG",
+   "minprice": "25.00",
+   "maxprice": "30.00",
+   "avgprice": "27.38"
+  },
+  {
+   "commodityname": "Onion Dry (Indian)",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "55.00",
+   "avgprice": "46.92"
+  },
+  {
+   "commodityname": "Carrot(Local)",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "80.00",
+   "avgprice": "75.00"
+  },
+  {
+   "commodityname": "Carrot(Terai)",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "80.00",
+   "avgprice": "75.00"
+  },
+  {
+   "commodityname": "Cabbage(Local)",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "50.00",
+   "avgprice": "45.00"
+  },
+  {
+   "commodityname": "Cabbage(Terai)",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "40.00",
+   "avgprice": "35.00"
+  },
+  {
+   "commodityname": "Cabbage",
+   "commodityunit": "KG",
+   "minprice": "25.00",
+   "maxprice": "35.00",
+   "avgprice": "30.29"
+  },
+  {
+   "commodityname": "Cauli Local",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "60.00",
+   "avgprice": "50.77"
+  },
+  {
+   "commodityname": "Cauli Local(Jyapu)",
+   "commodityunit": "KG",
+   "minprice": "65.00",
+   "maxprice": "75.00",
+   "avgprice": "70.00"
+  },
+  {
+   "commodityname": "Cauli Terai",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "50.00",
+   "avgprice": "44.17"
+  },
+  {
+   "commodityname": "Raddish Red",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "40.00",
+   "avgprice": "35.00"
+  },
+  {
+   "commodityname": "Raddish White(Local)",
+   "commodityunit": "KG",
+   "minprice": "15.00",
+   "maxprice": "20.00",
+   "avgprice": "17.50"
+  },
+  {
+   "commodityname": "Raddish White(Hybrid)",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "40.00",
+   "avgprice": "34.00"
+  },
+  {
+   "commodityname": "Brinjal Long",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "80.00",
+   "avgprice": "75.00"
+  },
+  {
+   "commodityname": "Brinjal Round",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "90.00",
+   "avgprice": "82.50"
+  },
+  {
+   "commodityname": "Cowpea(Short)",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "70.00",
+   "avgprice": "65.00"
+  },
+  {
+   "commodityname": "Green Peas",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "120.00",
+   "avgprice": "100.00"
+  },
+  {
+   "commodityname": "French Bean(Local)",
+   "commodityunit": "KG",
+   "minprice": "50.00",
+   "maxprice": "75.00",
+   "avgprice": "62.50"
+  },
+  {
+   "commodityname": "French Bean(Hybrid)",
+   "commodityunit": "KG",
+   "minprice": "45.00",
+   "maxprice": "60.00",
+   "avgprice": "52.50"
+  },
+  {
+   "commodityname": "French Bean(Rajma)",
+   "commodityunit": "KG",
+   "minprice": "140.00",
+   "maxprice": "170.00",
+   "avgprice": "155.00"
+  },
+  {
+   "commodityname": "Sword Bean",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "75.00",
+   "avgprice": "68.75"
+  },
+  {
+   "commodityname": "Bitter Gourd",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "120.00",
+   "avgprice": "106.11"
+  },
+  {
+   "commodityname": "Bottle Gourd",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "70.00",
+   "avgprice": "64.17"
+  },
+  {
+   "commodityname": "Pointed Gourd(Local)",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "95.00",
+   "avgprice": "88.33"
+  },
+  {
+   "commodityname": "Pointed Gourd(Terai)",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "93.75"
+  },
+  {
+   "commodityname": "Smooth Gourd",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "90.00",
+   "avgprice": "85.00"
+  },
+  {
+   "commodityname": "Pumpkin",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "40.00",
+   "avgprice": "35.00"
+  },
+  {
+   "commodityname": "Squash(Long)",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "45.00",
+   "avgprice": "41.67"
+  },
+  {
+   "commodityname": "Squash(Round)",
+   "commodityunit": "KG",
+   "minprice": "35.00",
+   "maxprice": "50.00",
+   "avgprice": "42.50"
+  },
+  {
+   "commodityname": "Turnip",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "90.00",
+   "avgprice": "85.00"
+  },
+  {
+   "commodityname": "Okra",
+   "commodityunit": "KG",
+   "minprice": "130.00",
+   "maxprice": "150.00",
+   "avgprice": "140.00"
+  },
+  {
+   "commodityname": "Sweet Potato",
+   "commodityunit": "KG",
+   "minprice": "50.00",
+   "maxprice": "65.00",
+   "avgprice": "57.50"
+  },
+  {
+   "commodityname": "Barela",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "87.50"
+  },
+  {
+   "commodityname": "Arum",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "90.00"
+  },
+  {
+   "commodityname": "Christophine",
+   "commodityunit": "KG",
+   "minprice": "25.00",
+   "maxprice": "30.00",
+   "avgprice": "27.50"
+  },
+  {
+   "commodityname": "Brd Leaf Mustard",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "70.00",
+   "avgprice": "43.75"
+  },
+  {
+   "commodityname": "Spinach Leaf",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Cress Leaf",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Mustard Leaf",
+   "commodityunit": "KG",
+   "minprice": "40.00",
+   "maxprice": "50.00",
+   "avgprice": "45.00"
+  },
+  {
+   "commodityname": "Fenugreek Leaf",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Onion Green",
+   "commodityunit": "KG",
+   "minprice": "50.00",
+   "maxprice": "60.00",
+   "avgprice": "55.00"
+  },
+  {
+   "commodityname": "Bakula",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Yam",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "70.00",
+   "avgprice": "65.00"
+  },
+  {
+   "commodityname": "Mushroom(Kanya)",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "140.00",
+   "avgprice": "120.00"
+  },
+  {
+   "commodityname": "Mushroom(Button)",
+   "commodityunit": "KG",
+   "minprice": "300.00",
+   "maxprice": "350.00",
+   "avgprice": "325.00"
+  },
+  {
+   "commodityname": "Asparagus",
+   "commodityunit": "KG",
+   "minprice": "1000.00",
+   "maxprice": "1200.00",
+   "avgprice": "1100.00"
+  },
+  {
+   "commodityname": "Broccoli",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "120.00",
+   "avgprice": "104.00"
+  },
+  {
+   "commodityname": "Sugarbeet",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "90.00",
+   "avgprice": "85.00"
+  },
+  {
+   "commodityname": "Red Cabbbage",
+   "commodityunit": "KG",
+   "minprice": "180.00",
+   "maxprice": "200.00",
+   "avgprice": "190.00"
+  },
+  {
+   "commodityname": "Lettuce",
+   "commodityunit": "KG",
+   "minprice": "200.00",
+   "maxprice": "250.00",
+   "avgprice": "225.00"
+  },
+  {
+   "commodityname": "Knolkhol",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Celery",
+   "commodityunit": "KG",
+   "minprice": "280.00",
+   "maxprice": "300.00",
+   "avgprice": "290.00"
+  },
+  {
+   "commodityname": "Parsley",
+   "commodityunit": "KG",
+   "minprice": "600.00",
+   "maxprice": "700.00",
+   "avgprice": "650.00"
+  },
+  {
+   "commodityname": "Fennel Leaf",
+   "commodityunit": "KG",
+   "minprice": "130.00",
+   "maxprice": "150.00",
+   "avgprice": "140.00"
+  },
+  {
+   "commodityname": "Mint",
+   "commodityunit": "KG",
+   "minprice": "400.00",
+   "maxprice": "500.00",
+   "avgprice": "450.00"
+  },
+  {
+   "commodityname": "Turnip A",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "90.00"
+  },
+  {
+   "commodityname": "Tamarind",
+   "commodityunit": "KG",
+   "minprice": "170.00",
+   "maxprice": "180.00",
+   "avgprice": "175.00"
+  },
+  {
+   "commodityname": "Bamboo Shoot",
+   "commodityunit": "KG",
+   "minprice": "110.00",
+   "maxprice": "120.00",
+   "avgprice": "115.00"
+  },
+  {
+   "commodityname": "Tofu",
+   "commodityunit": "KG",
+   "minprice": "130.00",
+   "maxprice": "150.00",
+   "avgprice": "140.00"
+  },
+  {
+   "commodityname": "Gundruk",
+   "commodityunit": "KG",
+   "minprice": "350.00",
+   "maxprice": "400.00",
+   "avgprice": "375.00"
+  },
+  {
+   "commodityname": "Apple(Jholey)",
+   "commodityunit": "KG",
+   "minprice": "200.00",
+   "maxprice": "250.00",
+   "avgprice": "225.00"
+  },
+  {
+   "commodityname": "Apple(Fuji)",
+   "commodityunit": "KG",
+   "minprice": "280.00",
+   "maxprice": "320.00",
+   "avgprice": "300.00"
+  },
+  {
+   "commodityname": "Banana",
+   "commodityunit": "Per Dozen",
+   "minprice": "180.00",
+   "maxprice": "200.00",
+   "avgprice": "190.00"
+  },
+  {
+   "commodityname": "Lime",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "100.00",
+   "avgprice": "90.00"
+  },
+  {
+   "commodityname": "Pomegranate",
+   "commodityunit": "KG",
+   "minprice": "350.00",
+   "maxprice": "400.00",
+   "avgprice": "375.00"
+  },
+  {
+   "commodityname": "Orange(Nepali)",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "120.00",
+   "avgprice": "100.00"
+  },
+  {
+   "commodityname": "Water Melon(Green)",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "100.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Sweet Orange",
+   "commodityunit": "KG",
+   "minprice": "80.00",
+   "maxprice": "110.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Mandarin",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Pineapple",
+   "commodityunit": "1 Pc",
+   "minprice": "145.00",
+   "maxprice": "155.00",
+   "avgprice": "150.00"
+  },
+  {
+   "commodityname": "Cucumber(Local)",
+   "commodityunit": "KG",
+   "minprice": "55.00",
+   "maxprice": "75.00",
+   "avgprice": "67.08"
+  },
+  {
+   "commodityname": "Cucumber(Hybrid)",
+   "commodityunit": "KG",
+   "minprice": "30.00",
+   "maxprice": "40.00",
+   "avgprice": "35.00"
+  },
+  {
+   "commodityname": "Lemon",
+   "commodityunit": "KG",
+   "minprice": "50.00",
+   "maxprice": "60.00",
+   "avgprice": "55.00"
+  },
+  {
+   "commodityname": "Pear(Chinese)",
+   "commodityunit": "KG",
+   "minprice": "200.00",
+   "maxprice": "230.00",
+   "avgprice": "215.00"
+  },
+  {
+   "commodityname": "Papaya(Nepali)",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "70.00",
+   "avgprice": "65.00"
+  },
+  {
+   "commodityname": "Papaya(Indian)",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "100.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Guava",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Mombin",
+   "commodityunit": "KG",
+   "minprice": "65.00",
+   "maxprice": "75.00",
+   "avgprice": "70.00"
+  },
+  {
+   "commodityname": "Strawberry",
+   "commodityunit": "KG",
+   "minprice": "450.00",
+   "maxprice": "500.00",
+   "avgprice": "475.00"
+  },
+  {
+   "commodityname": "Kiwi",
+   "commodityunit": "KG",
+   "minprice": "200.00",
+   "maxprice": "250.00",
+   "avgprice": "225.00"
+  },
+  {
+   "commodityname": "Sarifa",
+   "commodityunit": "KG",
+   "minprice": "150.00",
+   "maxprice": "200.00",
+   "avgprice": "175.00"
+  },
+  {
+   "commodityname": "Avocado",
+   "commodityunit": "KG",
+   "minprice": "250.00",
+   "maxprice": "350.00",
+   "avgprice": "300.00"
+  },
+  {
+   "commodityname": "Amla",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "80.00",
+   "avgprice": "75.00"
+  },
+  {
+   "commodityname": "Ginger",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "80.00",
+   "avgprice": "70.00"
+  },
+  {
+   "commodityname": "Chilli Dry",
+   "commodityunit": "KG",
+   "minprice": "360.00",
+   "maxprice": "440.00",
+   "avgprice": "400.00"
+  },
+  {
+   "commodityname": "Chilli Green",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "100.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Chilli Green(Bullet)",
+   "commodityunit": "KG",
+   "minprice": "100.00",
+   "maxprice": "120.00",
+   "avgprice": "110.00"
+  },
+  {
+   "commodityname": "Chilli Green(Machhe)",
+   "commodityunit": "KG",
+   "minprice": "90.00",
+   "maxprice": "100.00",
+   "avgprice": "95.00"
+  },
+  {
+   "commodityname": "Chilli Green(Akbare)",
+   "commodityunit": "KG",
+   "minprice": "300.00",
+   "maxprice": "350.00",
+   "avgprice": "325.00"
+  },
+  {
+   "commodityname": "Capsicum",
+   "commodityunit": "KG",
+   "minprice": "70.00",
+   "maxprice": "100.00",
+   "avgprice": "85.00"
+  },
+  {
+   "commodityname": "Garlic Green",
+   "commodityunit": "KG",
+   "minprice": "60.00",
+   "maxprice": "90.00",
+   "avgprice": "75.00"
+  },
+  {
+   "commodityname": "Coriander Green",
+   "commodityunit": "KG",
+   "minprice": "50.00",
+   "maxprice": "70.00",
+   "avgprice": "60.00"
+  },
+  {
+   "commodityname": "Garlic Dry Chinese",
+   "commodityunit": "KG",
+   "minprice": "300.00",
+   "maxprice": "350.00",
+   "avgprice": "325.00"
+  },
+  {
+   "commodityname": "Garlic Dry Nepali",
+   "commodityunit": "KG",
+   "minprice": "220.00",
+   "maxprice": "250.00",
+   "avgprice": "235.00"
+  },
+  {
+   "commodityname": "Clive Dry",
+   "commodityunit": "KG",
+   "minprice": "180.00",
+   "maxprice": "200.00",
+   "avgprice": "190.00"
+  },
+  {
+   "commodityname": "Clive Green",
+   "commodityunit": "KG",
+   "minprice": "150.00",
+   "maxprice": "180.00",
+   "avgprice": "165.00"
+  },
+  {
+   "commodityname": "Fish Dry",
+   "commodityunit": "KG",
+   "minprice": "800.00",
+   "maxprice": "1000.00",
+   "avgprice": "900.00"
+  },
+  {
+   "commodityname": "Fish Fresh(Rahu)",
+   "commodityunit": "KG",
+   "minprice": "320.00",
+   "maxprice": "340.00",
+   "avgprice": "330.00"
+  },
+  {
+   "commodityname": "Fish Fresh(Bachuwa)",
+   "commodityunit": "KG",
+   "minprice": "260.00",
+   "maxprice": "280.00",
+   "avgprice": "270.00"
+  },
+  {
+   "commodityname": "Fish Fresh(Chhadi)",
+   "commodityunit": "KG",
+   "minprice": "230.00",
+   "maxprice": "250.00",
+   "avgprice": "240.00"
+  },
+  {
+   "commodityname": "Tree Tomato",
+   "commodityunit": "Kg",
+   "minprice": "180.00",
+   "maxprice": "250.00",
+   "avgprice": "210.00"
+  },
+  {
+   "commodityname": "King Oyster",
+   "commodityunit": "Kg",
+   "minprice": "280.00",
+   "maxprice": "300.00",
+   "avgprice": "290.00"
+  },
+  {
+   "commodityname": "Lentinula Edodes",
+   "commodityunit": "Kg",
+   "minprice": "800.00",
+   "maxprice": "1000.00",
+   "avgprice": "900.00"
+  }
+ ]
+}
